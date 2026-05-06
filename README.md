@@ -13,6 +13,7 @@ Important files in the "replication_package" folder:
 * "mn_nca_figures.ipynb" re-creates all Figures (1-8) in the final project paper.
 * summary.do (Stata) performs all the regressions outlined in the paper once the requisite data is obtained.
 
+## Replication Steps
 To replicate the results, I recommend first running QWI_wisc_control.ipynb and synthetic_control.ipynb. 
 Note that both of these programs require extensive API querying. Many queries can take 2-4 hours individually. 
 To save time, I also include the QWI data in the "Data" folder:
