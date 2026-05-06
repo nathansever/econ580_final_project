@@ -6,6 +6,8 @@ Paper: The Wage and Mobility Effects of Non-Compete Bans: Evidence from Minnesot
 To replicate the paper's results, see the following:
 
 First, download the ZIP file (folder) "replication_package." This contains all the data and code necessary to reproduce the results.
+**Note that "replication_package" is too large to upload to GitHub (>25 MB). This is because I provide some of the data ("synth_final.csv") instead of requiring users to run all API queries, which could take several hours.
+Instead, I have shared the replication package with Prof. Alder and Prof. Braxton in a shared Google Drive.**
 
 Important files in the "replication_package" folder:
 * "QWI_wisc_control.ipynb" gathers the requisite QWI data to perform the difference-in-difference analysis using the Wisconsin control group.
