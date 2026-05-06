@@ -1,6 +1,7 @@
-# econ580_final_project
+# The Wage and Mobility Effects of Non-Compete Bans: Evidence from Minnesota
+## Replication Package
 Final Project for Econ 580 (Nathan Sever, Spring 2026)
-Paper: The Wage and Mobility Effects of Non-compete Bans: Evidence from Minnesota
+Paper: The Wage and Mobility Effects of Non-Compete Bans: Evidence from Minnesota
 
 To replicate the paper's results, see the following:
 
